@@ -1,0 +1,17 @@
+{
+  "name": "PGClip",
+  "version": "1.0.0",
+  "main": "dist/PGClip.min.js",
+  "authors": [
+    "luozhong@camera360.com"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pinguo-luozhong/PGClip.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
